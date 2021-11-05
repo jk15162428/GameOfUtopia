@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{50DF39D2-4E8B-CF2A-34AC-44A9647E0987}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GameOfUtopia",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
